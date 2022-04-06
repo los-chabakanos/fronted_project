@@ -1,0 +1,18 @@
+.div_nav {
+    display: flex;
+    width: 70%;
+    justify-content: space-around;
+    margin: 0 0 0 20%;
+}
+
+.img_insta {
+    width: 40px;
+}
+
+.img_fb {
+    width: 40px;
+}
+
+.img_logo {
+    width: 100px;
+}
